@@ -1,0 +1,12 @@
+{
+  "name": "address-transformation",
+  "version": "1.0.0",
+  "description": "Transform regular Ethereum address into mixed-case checksum address.",
+  "main": "index.js",
+  "repository": "https://github.com/xuxiao415/Address-Transformation.git",
+  "author": "Zhengkai Wang",
+  "license": "MIT",
+  "dependencies": {
+    "keccak": "^1.4.0"
+  }
+}
